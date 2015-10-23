@@ -1,0 +1,1 @@
+turns `.io` into `.clown`
